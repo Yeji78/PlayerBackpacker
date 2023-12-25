@@ -1,0 +1,14 @@
+Title: "&b仓库界面"
+Size: 54
+Boarder:
+  Name: "&3&l装饰版"
+  Type: STAINED_GLASS_PANE
+  Data: 7
+  #自带附魔
+  Enchant: DAMAGE_ALL:1
+  #隐藏附魔
+  HideEnchant: true
+  Lore:
+    - "&3没什么用的装饰板"
+Material:
+  TranslateSlot: 9 #初始数量

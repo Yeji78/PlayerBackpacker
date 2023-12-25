@@ -1,0 +1,7 @@
+name: PlayerBackpacker
+version: '${version}'
+main: com.test.playerbackpacker.PlayerBackpacker
+commands:
+  PlayerBackpacker:
+    aliases:
+      - pbp
